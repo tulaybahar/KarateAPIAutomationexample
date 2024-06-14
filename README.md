@@ -17,3 +17,7 @@ swagger.tests.feature , contains the test scenarios for the Swagger API, includi
 
 Running the Tests:
 To run the tests, execute the swaggertests.feature file using the Karate framework. Ensure that you have all dependencies correctly configured in your build tool (e.g., Maven)
+
+Viewing Test Reports:
+After running the tests, you can find the test reports in the target/karate-reports directory. Open the karate-summary.html file in your browser to view the test results.
+
