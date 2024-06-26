@@ -6,6 +6,7 @@ This project is an example of API automation testing using the Karate framework.
 
 **Key Technologies Used:**
 Karate: A test automation framework for API testing.
+
 Swagger API: Used for testing GET and POST methods on the Swagger generator API.
 
 **Swagger API Endpoints:**
